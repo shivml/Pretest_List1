@@ -1,0 +1,674 @@
+#
+# Results on Friday May 01 2020 10:07:11 UTC.
+# USER AGENT: Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:75.0) Gecko/20100101 Firefox/75.0
+# Design number was non-random = 0
+#
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,0,0,IntroConsent,NULL,PennController,0,_Trial_,Start,1588326876634,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,0,0,IntroConsent,NULL,Button,Continue,Click,Click,1588326880696,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,0,0,IntroConsent,NULL,PennController,0,_Trial_,End,1588326880702,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,PennController,1,_Trial_,Start,1588326880713,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Age,v ,1588326892546,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Gender,xcb,1588326892546,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,L1,xcb,1588326892546,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Father's_birthplace,cxb,1588326892546,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Mother's_birthplace,cxb,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Place1,bcx,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Age1,bcx,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Place2,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Age2,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Place3,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Age3,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Place4,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Age4,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Place5,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Age5,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Place6,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Age6,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Place7,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Age7,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Place8,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,Html,info,Age8,,1588326892547,text input
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,1,0,ParticipantInfo,NULL,PennController,1,_Trial_,End,1588326892547,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,2,0,Info1,NULL,PennController,2,_Trial_,Start,1588326892561,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,2,0,Info1,NULL,PennController,2,_Trial_,End,1588326894359,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. imagefile.
+# 14. name.
+# 15. Comments.
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,47,0,ProductionTask,NULL,PennController,49,_Trial_,Start,1588326894370,randoseru.jpg,ランドセル,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,47,0,ProductionTask,NULL,Key, ,PressedKey, ,1588326896948,randoseru.jpg,ランドセル,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,47,0,ProductionTask,NULL,Button,Continue,Click,Click,1588326899057,randoseru.jpg,ランドセル,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,47,0,ProductionTask,NULL,PennController,49,_Trial_,End,1588326899061,randoseru.jpg,ランドセル,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,60,0,ProductionTask,NULL,PennController,62,_Trial_,Start,1588326899068,jitensya.jpg,自転車,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,60,0,ProductionTask,NULL,Key, ,PressedKey, ,1588326901956,jitensya.jpg,自転車,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,60,0,ProductionTask,NULL,Button,Continue,Click,Click,1588326904355,jitensya.jpg,自転車,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,60,0,ProductionTask,NULL,PennController,62,_Trial_,End,1588326904358,jitensya.jpg,自転車,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,34,0,ProductionTask,NULL,PennController,36,_Trial_,Start,1588326904363,batto.jpg,バット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,34,0,ProductionTask,NULL,Key, ,PressedKey, ,1588326906769,batto.jpg,バット,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,34,0,ProductionTask,NULL,Button,Continue,Click,Click,1588326908976,batto.jpg,バット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,34,0,ProductionTask,NULL,PennController,36,_Trial_,End,1588326908978,batto.jpg,バット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,76,0,ProductionTask,NULL,PennController,78,_Trial_,Start,1588326908985,nezumi.jpg,ねずみ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,76,0,ProductionTask,NULL,Key, ,PressedKey, ,1588326911760,nezumi.jpg,ねずみ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,76,0,ProductionTask,NULL,Button,Continue,Click,Click,1588326914438,nezumi.jpg,ねずみ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,76,0,ProductionTask,NULL,PennController,78,_Trial_,End,1588326914441,nezumi.jpg,ねずみ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,28,0,ProductionTask,NULL,PennController,30,_Trial_,Start,1588326914445,neko.jpg,ねこ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,28,0,ProductionTask,NULL,Key, ,PressedKey, ,1588326916959,neko.jpg,ねこ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,28,0,ProductionTask,NULL,Button,Continue,Click,Click,1588326919394,neko.jpg,ねこ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,28,0,ProductionTask,NULL,PennController,30,_Trial_,End,1588326919399,neko.jpg,ねこ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,94,0,ProductionTask,NULL,PennController,96,_Trial_,Start,1588326919405,rajio.jpg,ラジオ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,94,0,ProductionTask,NULL,Key, ,PressedKey, ,1588326921870,rajio.jpg,ラジオ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,94,0,ProductionTask,NULL,Button,Continue,Click,Click,1588326923972,rajio.jpg,ラジオ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,94,0,ProductionTask,NULL,PennController,96,_Trial_,End,1588326923975,rajio.jpg,ラジオ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,23,0,ProductionTask,NULL,PennController,25,_Trial_,Start,1588326923980,tokei.jpg,時計,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,23,0,ProductionTask,NULL,Key, ,PressedKey, ,1588326926737,tokei.jpg,時計,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,23,0,ProductionTask,NULL,Button,Continue,Click,Click,1588326929332,tokei.jpg,時計,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,23,0,ProductionTask,NULL,PennController,25,_Trial_,End,1588326929334,tokei.jpg,時計,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,93,0,ProductionTask,NULL,PennController,95,_PreloadFailed_,yunoi.jpg,1588326989341,yunoi.jpg,湯のみ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,93,0,ProductionTask,NULL,PennController,95,_Trial_,Start,1588326989341,yunoi.jpg,湯のみ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,93,0,ProductionTask,NULL,Key, ,PressedKey, ,1588326998239,yunoi.jpg,湯のみ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,93,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327001028,yunoi.jpg,湯のみ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,93,0,ProductionTask,NULL,PennController,95,_Trial_,End,1588327001032,yunoi.jpg,湯のみ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,6,0,ProductionTask,NULL,PennController,8,_Trial_,Start,1588327001042,kamera.jpg,カメラ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,6,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327002837,kamera.jpg,カメラ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,6,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327004633,kamera.jpg,カメラ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,6,0,ProductionTask,NULL,PennController,8,_Trial_,End,1588327004635,kamera.jpg,カメラ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,70,0,ProductionTask,NULL,PennController,72,_Trial_,Start,1588327004643,doraiya-.jpg,ドライヤー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,70,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327007255,doraiya-.jpg,ドライヤー,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,70,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327008952,doraiya-.jpg,ドライヤー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,70,0,ProductionTask,NULL,PennController,72,_Trial_,End,1588327008955,doraiya-.jpg,ドライヤー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,67,0,ProductionTask,NULL,PennController,69,_Trial_,Start,1588327008965,tyuusyaki.jpg,注射器,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,67,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327011016,tyuusyaki.jpg,注射器,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,67,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327013248,tyuusyaki.jpg,注射器,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,67,0,ProductionTask,NULL,PennController,69,_Trial_,End,1588327013250,tyuusyaki.jpg,注射器,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,25,0,ProductionTask,NULL,PennController,27,_Trial_,Start,1588327013255,naihu.jpg,ナイフ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,25,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327015446,naihu.jpg,ナイフ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,25,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327018170,naihu.jpg,ナイフ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,25,0,ProductionTask,NULL,PennController,27,_Trial_,End,1588327018172,naihu.jpg,ナイフ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,74,0,ProductionTask,NULL,PennController,76,_Trial_,Start,1588327018177,nawatobi.jpg,縄跳び,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,74,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327020659,nawatobi.jpg,縄跳び,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,74,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327022264,nawatobi.jpg,縄跳び,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,74,0,ProductionTask,NULL,PennController,76,_Trial_,End,1588327022266,nawatobi.jpg,縄跳び,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,91,0,ProductionTask,NULL,PennController,93,_Trial_,Start,1588327022270,boushi.jpg,帽子,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,91,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327024427,boushi.jpg,帽子,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,91,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327026114,boushi.jpg,帽子,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,91,0,ProductionTask,NULL,PennController,93,_Trial_,End,1588327026116,boushi.jpg,帽子,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,52,0,ProductionTask,NULL,PennController,54,_Trial_,Start,1588327026119,usagi.jpg,うさぎ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,52,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327028990,usagi.jpg,うさぎ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,52,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327030352,usagi.jpg,うさぎ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,52,0,ProductionTask,NULL,PennController,54,_Trial_,End,1588327030354,usagi.jpg,うさぎ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,97,0,ProductionTask,NULL,PennController,99,_Trial_,Start,1588327030360,robotto.jpg,ロボット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,97,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327032698,robotto.jpg,ロボット,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,97,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327034648,robotto.jpg,ロボット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,97,0,ProductionTask,NULL,PennController,99,_Trial_,End,1588327034650,robotto.jpg,ロボット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,26,0,ProductionTask,NULL,PennController,28,_Trial_,Start,1588327034654,nasubi.jpg,なすび,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,26,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327038823,nasubi.jpg,なすび,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,26,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327040255,nasubi.jpg,なすび,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,26,0,ProductionTask,NULL,PennController,28,_Trial_,End,1588327040258,nasubi.jpg,なすび,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,12,0,ProductionTask,NULL,PennController,14,_Trial_,Start,1588327040264,jisyaku.jpg,磁石,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,12,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327042941,jisyaku.jpg,磁石,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,12,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327044768,jisyaku.jpg,磁石,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,12,0,ProductionTask,NULL,PennController,14,_Trial_,End,1588327044770,jisyaku.jpg,磁石,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,56,0,ProductionTask,NULL,PennController,58,_Trial_,Start,1588327044776,kureyon.jpg,クレヨン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,56,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327049219,kureyon.jpg,クレヨン,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,56,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327051106,kureyon.jpg,クレヨン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,56,0,ProductionTask,NULL,PennController,58,_Trial_,End,1588327051108,kureyon.jpg,クレヨン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,29,0,ProductionTask,NULL,PennController,31,_Trial_,Start,1588327051112,no-to.jpg,ノート　,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,29,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327053926,no-to.jpg,ノート　,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,29,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327055521,no-to.jpg,ノート　,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,29,0,ProductionTask,NULL,PennController,31,_Trial_,End,1588327055524,no-to.jpg,ノート　,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,13,0,ProductionTask,NULL,PennController,15,_Trial_,Start,1588327055528,su-tu.jpg,スーツ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,13,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327057702,su-tu.jpg,スーツ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,13,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327060166,su-tu.jpg,スーツ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,13,0,ProductionTask,NULL,PennController,15,_Trial_,End,1588327060169,su-tu.jpg,スーツ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,80,0,ProductionTask,NULL,PennController,82,_Trial_,Start,1588327060173,hashi.jpg,箸,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,80,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327062389,hashi.jpg,箸,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,80,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327064678,hashi.jpg,箸,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,80,0,ProductionTask,NULL,PennController,82,_Trial_,End,1588327064681,hashi.jpg,箸,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,61,0,ProductionTask,NULL,PennController,63,_Trial_,Start,1588327064686,suka-to.jpg,スカート,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,61,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327067658,suka-to.jpg,スカート,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,61,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327068858,suka-to.jpg,スカート,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,61,0,ProductionTask,NULL,PennController,63,_Trial_,End,1588327068860,suka-to.jpg,スカート,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,83,0,ProductionTask,NULL,PennController,85,_Trial_,Start,1588327068864,hashigo.jpg,はしご,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,83,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327070871,hashigo.jpg,はしご,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,83,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327072175,hashigo.jpg,はしご,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,83,0,ProductionTask,NULL,PennController,85,_Trial_,End,1588327072177,hashigo.jpg,はしご,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,43,0,ProductionTask,NULL,PennController,45,_Trial_,Start,1588327072180,bo-ru.jpg,ボール,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,43,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327074963,bo-ru.jpg,ボール,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,43,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327076629,bo-ru.jpg,ボール,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,43,0,ProductionTask,NULL,PennController,45,_Trial_,End,1588327076630,bo-ru.jpg,ボール,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,36,0,ProductionTask,NULL,PennController,38,_Trial_,Start,1588327076634,pan.jpg,パン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,36,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327078361,pan.jpg,パン,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,36,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327080249,pan.jpg,パン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,36,0,ProductionTask,NULL,PennController,38,_Trial_,End,1588327080251,pan.jpg,パン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,3,0,ProductionTask,NULL,PennController,5,_Trial_,Start,1588327080254,ika.jpg,いか,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,3,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327082295,ika.jpg,いか,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,3,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327084256,ika.jpg,いか,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,3,0,ProductionTask,NULL,PennController,5,_Trial_,End,1588327084258,ika.jpg,いか,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,14,0,ProductionTask,NULL,PennController,16,_Trial_,Start,1588327084261,suzu.jpg,鈴,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,14,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327086229,suzu.jpg,鈴,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,14,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327087514,suzu.jpg,鈴,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,14,0,ProductionTask,NULL,PennController,16,_Trial_,End,1588327087516,suzu.jpg,鈴,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,98,0,ProductionTask,NULL,PennController,100,_Trial_,Start,1588327087520,wanpi-su.jpg,ワンピース,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,98,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327090999,wanpi-su.jpg,ワンピース,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,98,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327092444,wanpi-su.jpg,ワンピース,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,98,0,ProductionTask,NULL,PennController,100,_Trial_,End,1588327092447,wanpi-su.jpg,ワンピース,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,86,0,ProductionTask,NULL,PennController,88,_Trial_,Start,1588327092450,hikouki.jpg,飛行機,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,86,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327094443,hikouki.jpg,飛行機,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,86,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327095817,hikouki.jpg,飛行機,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,86,0,ProductionTask,NULL,PennController,88,_Trial_,End,1588327095819,hikouki.jpg,飛行機,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,87,0,ProductionTask,NULL,PennController,89,_Trial_,Start,1588327095821,hune.jpg,船,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,87,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327098567,hune.jpg,船,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,87,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327099646,hune.jpg,船,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,87,0,ProductionTask,NULL,PennController,89,_Trial_,End,1588327099648,hune.jpg,船,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,24,0,ProductionTask,NULL,PennController,26,_Trial_,Start,1588327099651,tori.jpg,鳥,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,24,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327101676,tori.jpg,鳥,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,24,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327103296,tori.jpg,鳥,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,24,0,ProductionTask,NULL,PennController,26,_Trial_,End,1588327103298,tori.jpg,鳥,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,4,0,ProductionTask,NULL,PennController,6,_Trial_,Start,1588327103303,udedokei.jpg,腕時計,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,4,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327105487,udedokei.jpg,腕時計,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,4,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327106749,udedokei.jpg,腕時計,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,4,0,ProductionTask,NULL,PennController,6,_Trial_,End,1588327106751,udedokei.jpg,腕時計,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,37,0,ProductionTask,NULL,PennController,39,_Trial_,Start,1588327106756,hanga-.jpg,ハンガー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,37,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327109496,hanga-.jpg,ハンガー,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,37,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327110989,hanga-.jpg,ハンガー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,37,0,ProductionTask,NULL,PennController,39,_Trial_,End,1588327110991,hanga-.jpg,ハンガー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,10,0,ProductionTask,NULL,PennController,12,_Trial_,Start,1588327110994,kotatu.jpg,こたつ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,10,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327113999,kotatu.jpg,こたつ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,10,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327115588,kotatu.jpg,こたつ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,10,0,ProductionTask,NULL,PennController,12,_Trial_,End,1588327115591,kotatu.jpg,こたつ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,95,0,ProductionTask,NULL,PennController,97,_Trial_,Start,1588327115594,raketto.jpg,ラケット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,95,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327119034,raketto.jpg,ラケット,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,95,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327120292,raketto.jpg,ラケット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,95,0,ProductionTask,NULL,PennController,97,_Trial_,End,1588327120294,raketto.jpg,ラケット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,5,0,ProductionTask,NULL,PennController,7,_Trial_,Start,1588327120297,epuron.jpg,エプロン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,5,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327123079,epuron.jpg,エプロン,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,5,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327125336,epuron.jpg,エプロン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,5,0,ProductionTask,NULL,PennController,7,_Trial_,End,1588327125337,epuron.jpg,エプロン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,55,0,ProductionTask,NULL,PennController,57,_Trial_,Start,1588327125340,kyuukyuusya.jpg,救急車,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,55,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327127643,kyuukyuusya.jpg,救急車,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,55,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327129540,kyuukyuusya.jpg,救急車,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,55,0,ProductionTask,NULL,PennController,57,_Trial_,End,1588327129542,kyuukyuusya.jpg,救急車,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,38,0,ProductionTask,NULL,PennController,40,_Trial_,Start,1588327129544,hituji.jpg,羊,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,38,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327132119,hituji.jpg,羊,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,38,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327134189,hituji.jpg,羊,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,38,0,ProductionTask,NULL,PennController,40,_Trial_,End,1588327134191,hituji.jpg,羊,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,35,0,ProductionTask,NULL,PennController,37,_Trial_,Start,1588327134194,happa.jpg,葉っぱ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,35,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327137173,happa.jpg,葉っぱ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,35,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327138452,happa.jpg,葉っぱ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,35,0,ProductionTask,NULL,PennController,37,_Trial_,End,1588327138454,happa.jpg,葉っぱ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,32,0,ProductionTask,NULL,PennController,34,_Trial_,Start,1588327138456,hata.jpg,旗,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,32,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327140090,hata.jpg,旗,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,32,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327143544,hata.jpg,旗,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,32,0,ProductionTask,NULL,PennController,34,_Trial_,End,1588327143546,hata.jpg,旗,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,40,0,ProductionTask,NULL,PennController,42,_Trial_,Start,1588327143550,hudebako.jpg,筆箱,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,40,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327145482,hudebako.jpg,筆箱,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,40,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327148536,hudebako.jpg,筆箱,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,40,0,ProductionTask,NULL,PennController,42,_Trial_,End,1588327148538,hudebako.jpg,筆箱,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,53,0,ProductionTask,NULL,PennController,55,_Trial_,Start,1588327148541,eakon.jpg,エアコン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,53,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327150652,eakon.jpg,エアコン,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,53,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327155598,eakon.jpg,エアコン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,53,0,ProductionTask,NULL,PennController,55,_Trial_,End,1588327155600,eakon.jpg,エアコン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,46,0,ProductionTask,NULL,PennController,48,_Trial_,Start,1588327155603,raita-.jpg,ライター,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,46,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327157336,raita-.jpg,ライター,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,46,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327159234,raita-.jpg,ライター,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,46,0,ProductionTask,NULL,PennController,48,_Trial_,End,1588327159236,raita-.jpg,ライター,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,85,0,ProductionTask,NULL,PennController,87,_Trial_,Start,1588327159238,hanko.jpg,はんこ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,85,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327163573,hanko.jpg,はんこ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,85,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327164826,hanko.jpg,はんこ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,85,0,ProductionTask,NULL,PennController,87,_Trial_,End,1588327164828,hanko.jpg,はんこ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,17,0,ProductionTask,NULL,PennController,19,_Trial_,Start,1588327164831,sofa-.jpg,ソファー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,17,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327166836,sofa-.jpg,ソファー,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,17,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327168206,sofa-.jpg,ソファー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,17,0,ProductionTask,NULL,PennController,19,_Trial_,End,1588327168208,sofa-.jpg,ソファー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,64,0,ProductionTask,NULL,PennController,66,_Trial_,Start,1588327168212,suberidai.jpg,滑り台,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,64,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327169999,suberidai.jpg,滑り台,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,64,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327171273,suberidai.jpg,滑り台,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,64,0,ProductionTask,NULL,PennController,66,_Trial_,End,1588327171275,suberidai.jpg,滑り台,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,75,0,ProductionTask,NULL,PennController,77,_Trial_,Start,1588327171279,ninjin.jpg,にんじん,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,75,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327172917,ninjin.jpg,にんじん,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,75,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327173975,ninjin.jpg,にんじん,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,75,0,ProductionTask,NULL,PennController,77,_Trial_,End,1588327173976,ninjin.jpg,にんじん,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,50,0,ProductionTask,NULL,PennController,52,_Trial_,Start,1588327173979,wani.jpg,ワニ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,50,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327175642,wani.jpg,ワニ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,50,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327177230,wani.jpg,ワニ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,50,0,ProductionTask,NULL,PennController,52,_Trial_,End,1588327177232,wani.jpg,ワニ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,19,0,ProductionTask,NULL,PennController,21,_Trial_,Start,1588327177234,tyu-rippu.jpg,チューリップ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,19,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327179087,tyu-rippu.jpg,チューリップ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,19,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327180272,tyu-rippu.jpg,チューリップ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,19,0,ProductionTask,NULL,PennController,21,_Trial_,End,1588327180274,tyu-rippu.jpg,チューリップ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,72,0,ProductionTask,NULL,PennController,74,_Trial_,Start,1588327180276,toranpetto.jpg,トランペット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,72,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327182122,toranpetto.jpg,トランペット,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,72,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327183136,toranpetto.jpg,トランペット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,72,0,ProductionTask,NULL,PennController,74,_Trial_,End,1588327183137,toranpetto.jpg,トランペット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,48,0,ProductionTask,NULL,PennController,50,_Trial_,Start,1588327183141,ringo.jpg,りんご,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,48,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327184864,ringo.jpg,りんご,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,48,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327186205,ringo.jpg,りんご,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,48,0,ProductionTask,NULL,PennController,50,_Trial_,End,1588327186206,ringo.jpg,りんご,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,84,0,ProductionTask,NULL,PennController,86,_Trial_,Start,1588327186209,pasokon.jpg,パソコン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,84,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327187834,pasokon.jpg,パソコン,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,84,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327188707,pasokon.jpg,パソコン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,84,0,ProductionTask,NULL,PennController,86,_Trial_,End,1588327188709,pasokon.jpg,パソコン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,11,0,ProductionTask,NULL,PennController,13,_Trial_,Start,1588327188711,si-so-.jpg,シーソー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,11,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327190395,si-so-.jpg,シーソー,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,11,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327191632,si-so-.jpg,シーソー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,11,0,ProductionTask,NULL,PennController,13,_Trial_,End,1588327191634,si-so-.jpg,シーソー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,82,0,ProductionTask,NULL,PennController,84,_Trial_,Start,1588327191637,batta.jpg,バッタ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,82,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327193293,batta.jpg,バッタ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,82,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327196573,batta.jpg,バッタ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,82,0,ProductionTask,NULL,PennController,84,_Trial_,End,1588327196576,batta.jpg,バッタ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,7,0,ProductionTask,NULL,PennController,9,_Trial_,Start,1588327196578,kyuuri.jpg,きゅうり,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,7,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327198005,kyuuri.jpg,きゅうり,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,7,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327200026,kyuuri.jpg,きゅうり,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,7,0,ProductionTask,NULL,PennController,9,_Trial_,End,1588327200028,kyuuri.jpg,きゅうり,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,68,0,ProductionTask,NULL,PennController,70,_Trial_,Start,1588327200032,tukue.jpg,机,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,68,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327201833,tukue.jpg,机,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,68,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327203250,tukue.jpg,机,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,68,0,ProductionTask,NULL,PennController,70,_Trial_,End,1588327203252,tukue.jpg,机,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,79,0,ProductionTask,NULL,PennController,81,_Trial_,Start,1588327203255,hasami.jpg,ハサミ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,79,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327204906,hasami.jpg,ハサミ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,79,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327206266,hasami.jpg,ハサミ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,79,0,ProductionTask,NULL,PennController,81,_Trial_,End,1588327206268,hasami.jpg,ハサミ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,30,0,ProductionTask,NULL,PennController,32,_Trial_,Start,1588327206271,baketu.jpg,バケツ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,30,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327207845,baketu.jpg,バケツ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,30,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327209202,baketu.jpg,バケツ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,30,0,ProductionTask,NULL,PennController,32,_Trial_,End,1588327209204,baketu.jpg,バケツ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,22,0,ProductionTask,NULL,PennController,24,_Trial_,Start,1588327209206,doa.jpg,ドア,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,22,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327210869,doa.jpg,ドア,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,22,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327212168,doa.jpg,ドア,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,22,0,ProductionTask,NULL,PennController,24,_Trial_,End,1588327212170,doa.jpg,ドア,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,20,0,ProductionTask,NULL,PennController,22,_Trial_,Start,1588327212172,tume.jpg,爪,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,20,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327214091,tume.jpg,爪,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,20,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327215699,tume.jpg,爪,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,20,0,ProductionTask,NULL,PennController,22,_Trial_,End,1588327215700,tume.jpg,爪,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,66,0,ProductionTask,NULL,PennController,68,_Trial_,Start,1588327215703,taihou.jpg,大砲,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,66,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327217480,taihou.jpg,大砲,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,66,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327218719,taihou.jpg,大砲,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,66,0,ProductionTask,NULL,PennController,68,_Trial_,End,1588327218720,taihou.jpg,大砲,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,42,0,ProductionTask,NULL,PennController,44,_Trial_,Start,1588327218723,houki.jpg,ほうき,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,42,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327220311,houki.jpg,ほうき,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,42,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327221799,houki.jpg,ほうき,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,42,0,ProductionTask,NULL,PennController,44,_Trial_,End,1588327221800,houki.jpg,ほうき,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,77,0,ProductionTask,NULL,PennController,79,_Trial_,Start,1588327221803,nokogiri.jpg,のこぎり,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,77,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327223294,nokogiri.jpg,のこぎり,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,77,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327224337,nokogiri.jpg,のこぎり,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,77,0,ProductionTask,NULL,PennController,79,_Trial_,End,1588327224339,nokogiri.jpg,のこぎり,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,92,0,ProductionTask,NULL,PennController,94,_Trial_,Start,1588327224342,manaita.jpg,まな板,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,92,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327225912,manaita.jpg,まな板,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,92,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327227496,manaita.jpg,まな板,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,92,0,ProductionTask,NULL,PennController,94,_Trial_,End,1588327227498,manaita.jpg,まな板,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,71,0,ProductionTask,NULL,PennController,73,_Trial_,Start,1588327227500,torakku.jpg,トラック,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,71,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327229168,torakku.jpg,トラック,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,71,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327230716,torakku.jpg,トラック,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,71,0,ProductionTask,NULL,PennController,73,_Trial_,End,1588327230718,torakku.jpg,トラック,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,18,0,ProductionTask,NULL,PennController,20,_Trial_,Start,1588327230721,taiya.jpg,タイヤ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,18,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327232223,taiya.jpg,タイヤ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,18,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327233292,taiya.jpg,タイヤ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,18,0,ProductionTask,NULL,PennController,20,_Trial_,End,1588327233293,taiya.jpg,タイヤ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,58,0,ProductionTask,NULL,PennController,60,_Trial_,Start,1588327233297,kokeshi.jpg,こけし,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,58,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327234433,kokeshi.jpg,こけし,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,58,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327235572,kokeshi.jpg,こけし,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,58,0,ProductionTask,NULL,PennController,60,_Trial_,End,1588327235573,kokeshi.jpg,こけし,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,62,0,ProductionTask,NULL,PennController,64,_Trial_,Start,1588327235576,supu-n.jpg,スプーン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,62,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327237285,supu-n.jpg,スプーン,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,62,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327238534,supu-n.jpg,スプーン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,62,0,ProductionTask,NULL,PennController,64,_Trial_,End,1588327238536,supu-n.jpg,スプーン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,69,0,ProductionTask,NULL,PennController,71,_Trial_,Start,1588327238538,dentaku.jpg,電卓,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,69,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327240458,dentaku.jpg,電卓,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,69,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327241940,dentaku.jpg,電卓,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,69,0,ProductionTask,NULL,PennController,71,_Trial_,End,1588327241942,dentaku.jpg,電卓,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,31,0,ProductionTask,NULL,PennController,33,_Trial_,Start,1588327241945,hako.jpg,箱,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,31,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327243617,hako.jpg,箱,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,31,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327245341,hako.jpg,箱,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,31,0,ProductionTask,NULL,PennController,33,_Trial_,End,1588327245342,hako.jpg,箱,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,81,0,ProductionTask,NULL,PennController,83,_Trial_,Start,1588327245345,haburashi.jpg,ハブラシ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,81,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327247332,haburashi.jpg,ハブラシ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,81,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327248430,haburashi.jpg,ハブラシ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,81,0,ProductionTask,NULL,PennController,83,_Trial_,End,1588327248432,haburashi.jpg,ハブラシ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,45,0,ProductionTask,NULL,PennController,47,_Trial_,Start,1588327248434,yubiwa.jpg,指輪,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,45,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327249948,yubiwa.jpg,指輪,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,45,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327251023,yubiwa.jpg,指輪,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,45,0,ProductionTask,NULL,PennController,47,_Trial_,End,1588327251025,yubiwa.jpg,指輪,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,54,0,ProductionTask,NULL,PennController,56,_Trial_,Start,1588327251027,kame.jpg,亀,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,54,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327252717,kame.jpg,亀,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,54,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327253686,kame.jpg,亀,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,54,0,ProductionTask,NULL,PennController,56,_Trial_,End,1588327253688,kame.jpg,亀,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,78,0,ProductionTask,NULL,PennController,80,_Trial_,Start,1588327253691,banana.jpg,バナナ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,78,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327255302,banana.jpg,バナナ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,78,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327256198,banana.jpg,バナナ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,78,0,ProductionTask,NULL,PennController,80,_Trial_,End,1588327256200,banana.jpg,バナナ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,41,0,ProductionTask,NULL,PennController,43,_Trial_,Start,1588327256202,herumetto.jpg,ヘルメット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,41,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327257237,herumetto.jpg,ヘルメット,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,41,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327258648,herumetto.jpg,ヘルメット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,41,0,ProductionTask,NULL,PennController,43,_Trial_,End,1588327258651,herumetto.jpg,ヘルメット,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,51,0,ProductionTask,NULL,PennController,53,_Trial_,Start,1588327258655,ichigo.jpg,いちご,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,51,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327260323,ichigo.jpg,いちご,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,51,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327261258,ichigo.jpg,いちご,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,51,0,ProductionTask,NULL,PennController,53,_Trial_,End,1588327261260,ichigo.jpg,いちご,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,49,0,ProductionTask,NULL,PennController,51,_Trial_,Start,1588327261263,rokka-.jpg,ロッカー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,49,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327262949,rokka-.jpg,ロッカー,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,49,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327264760,rokka-.jpg,ロッカー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,49,0,ProductionTask,NULL,PennController,51,_Trial_,End,1588327264762,rokka-.jpg,ロッカー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,8,0,ProductionTask,NULL,PennController,10,_Trial_,Start,1588327264764,kutushita.jpg,靴下,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,8,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327266359,kutushita.jpg,靴下,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,8,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327267605,kutushita.jpg,靴下,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,8,0,ProductionTask,NULL,PennController,10,_Trial_,End,1588327267608,kutushita.jpg,靴下,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,27,0,ProductionTask,NULL,PennController,29,_Trial_,Start,1588327267610,niwatori.jpg,にわとり,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,27,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327269100,niwatori.jpg,にわとり,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,27,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327269933,niwatori.jpg,にわとり,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,27,0,ProductionTask,NULL,PennController,29,_Trial_,End,1588327269934,niwatori.jpg,にわとり,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,96,0,ProductionTask,NULL,PennController,98,_Trial_,Start,1588327269937,riko-da-.jpg,リコーダー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,96,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327271512,riko-da-.jpg,リコーダー,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,96,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327272694,riko-da-.jpg,リコーダー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,96,0,ProductionTask,NULL,PennController,98,_Trial_,End,1588327272695,riko-da-.jpg,リコーダー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,73,0,ProductionTask,NULL,PennController,75,_Trial_,Start,1588327272699,nabe.jpg,鍋,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,73,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327274251,nabe.jpg,鍋,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,73,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327276110,nabe.jpg,鍋,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,73,0,ProductionTask,NULL,PennController,75,_Trial_,End,1588327276112,nabe.jpg,鍋,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,16,0,ProductionTask,NULL,PennController,18,_Trial_,Start,1588327276115,sunadokei.jpg,砂時計,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,16,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327278014,sunadokei.jpg,砂時計,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,16,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327279022,sunadokei.jpg,砂時計,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,16,0,ProductionTask,NULL,PennController,18,_Trial_,End,1588327279024,sunadokei.jpg,砂時計,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,39,0,ProductionTask,NULL,PennController,41,_Trial_,Start,1588327279027,huutou.jpg,封筒,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,39,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327280607,huutou.jpg,封筒,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,39,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327281833,huutou.jpg,封筒,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,39,0,ProductionTask,NULL,PennController,41,_Trial_,End,1588327281836,huutou.jpg,封筒,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,90,0,ProductionTask,NULL,PennController,92,_Trial_,Start,1588327281841,houtyou.jpg,包丁,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,90,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327283399,houtyou.jpg,包丁,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,90,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327284660,houtyou.jpg,包丁,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,90,0,ProductionTask,NULL,PennController,92,_Trial_,End,1588327284661,houtyou.jpg,包丁,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,63,0,ProductionTask,NULL,PennController,65,_Trial_,Start,1588327284665,sutoro-.jpg,ストロー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,63,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327286356,sutoro-.jpg,ストロー,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,63,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327289050,sutoro-.jpg,ストロー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,63,0,ProductionTask,NULL,PennController,65,_Trial_,End,1588327289052,sutoro-.jpg,ストロー,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,33,0,ProductionTask,NULL,PennController,35,_Trial_,Start,1588327289055,hachi.jpg,蜂,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,33,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327290503,hachi.jpg,蜂,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,33,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327292274,hachi.jpg,蜂,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,33,0,ProductionTask,NULL,PennController,35,_Trial_,End,1588327292276,hachi.jpg,蜂,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,65,0,ProductionTask,NULL,PennController,67,_Trial_,Start,1588327292278,soujiki.jpg,掃除機,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,65,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327293807,soujiki.jpg,掃除機,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,65,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327294864,soujiki.jpg,掃除機,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,65,0,ProductionTask,NULL,PennController,67,_Trial_,End,1588327294866,soujiki.jpg,掃除機,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,44,0,ProductionTask,NULL,PennController,46,_Trial_,Start,1588327294868,makura.jpg,枕,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,44,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327296350,makura.jpg,枕,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,44,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327297980,makura.jpg,枕,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,44,0,ProductionTask,NULL,PennController,46,_Trial_,End,1588327297981,makura.jpg,枕,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,89,0,ProductionTask,NULL,PennController,91,_Trial_,Start,1588327297984,hebi.jpg,へび,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,89,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327299394,hebi.jpg,へび,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,89,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327300348,hebi.jpg,へび,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,89,0,ProductionTask,NULL,PennController,91,_Trial_,End,1588327300350,hebi.jpg,へび,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,57,0,ProductionTask,NULL,PennController,59,_Trial_,Start,1588327300352,koppu.jpg,コップ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,57,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327301980,koppu.jpg,コップ,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,57,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327303016,koppu.jpg,コップ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,57,0,ProductionTask,NULL,PennController,59,_Trial_,End,1588327303018,koppu.jpg,コップ,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,15,0,ProductionTask,NULL,PennController,17,_Trial_,Start,1588327303021,sushi.jpg,寿司,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,15,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327304488,sushi.jpg,寿司,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,15,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327307062,sushi.jpg,寿司,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,15,0,ProductionTask,NULL,PennController,17,_Trial_,End,1588327307064,sushi.jpg,寿司,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,9,0,ProductionTask,NULL,PennController,11,_Trial_,Start,1588327307067,koin.jpg,コイン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,9,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327308543,koin.jpg,コイン,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,9,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327310785,koin.jpg,コイン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,9,0,ProductionTask,NULL,PennController,11,_Trial_,End,1588327310786,koin.jpg,コイン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,59,0,ProductionTask,NULL,PennController,61,_Trial_,Start,1588327310789,shinbun.jpg,新聞,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,59,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327312526,shinbun.jpg,新聞,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,59,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327314462,shinbun.jpg,新聞,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,59,0,ProductionTask,NULL,PennController,61,_Trial_,End,1588327314464,shinbun.jpg,新聞,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,88,0,ProductionTask,NULL,PennController,90,_Trial_,Start,1588327314467,huraipan.jpg,フライパン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,88,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327315984,huraipan.jpg,フライパン,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,88,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327316900,huraipan.jpg,フライパン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,88,0,ProductionTask,NULL,PennController,90,_Trial_,End,1588327316902,huraipan.jpg,フライパン,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,21,0,ProductionTask,NULL,PennController,23,_Trial_,Start,1588327316904,densya.jpg,電車,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,21,0,ProductionTask,NULL,Key, ,PressedKey, ,1588327318358,densya.jpg,電車,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,21,0,ProductionTask,NULL,Button,Continue,Click,Click,1588327319788,densya.jpg,電車,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,21,0,ProductionTask,NULL,PennController,23,_Trial_,End,1588327319790,densya.jpg,電車,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. Comments.
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,99,0,Info2,NULL,PennController,3,_Trial_,Start,1588327319792,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,99,0,Info2,NULL,PennController,3,_Trial_,End,1588327325375,NULL
+# Columns below this comment are as follows:
+# 1. Time results were received.
+# 2. MD5 hash of participant's IP address.
+# 3. Controller name.
+# 4. Item number.
+# 5. Element number.
+# 6. Type.
+# 7. Group.
+# 8. PennElementType.
+# 9. PennElementName.
+# 10. Parameter.
+# 11. Value.
+# 12. EventTime.
+# 13. LeftImage.
+# 14. RightImage.
+# 15. RightImage.
+# 16. Comments.
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,123,0,ImageRT_List1,NULL,PennController,124,_Trial_,Start,1588327325379,nasubi.jpg,nawatobi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,123,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327328219,nasubi.jpg,nawatobi.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,123,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327334903,nasubi.jpg,nawatobi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,123,0,ImageRT_List1,NULL,PennController,124,_Trial_,End,1588327334909,nasubi.jpg,nawatobi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,111,0,ImageRT_List1,NULL,PennController,112,_Trial_,Start,1588327334915,supu-n.jpg,suzu.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,111,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327337736,supu-n.jpg,suzu.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,111,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327341390,supu-n.jpg,suzu.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,111,0,ImageRT_List1,NULL,PennController,112,_Trial_,End,1588327341396,supu-n.jpg,suzu.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,145,0,ImageRT_List1,NULL,PennController,146,_Trial_,Start,1588327341407,riko-da-.jpg,ringo.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,145,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327343361,riko-da-.jpg,ringo.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,145,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327347460,riko-da-.jpg,ringo.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,145,0,ImageRT_List1,NULL,PennController,146,_Trial_,End,1588327347465,riko-da-.jpg,ringo.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,113,0,ImageRT_List1,NULL,PennController,114,_Trial_,Start,1588327347474,sunadokei.jpg,suberidai.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,113,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327350212,sunadokei.jpg,suberidai.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,113,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327353495,sunadokei.jpg,suberidai.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,113,0,ImageRT_List1,NULL,PennController,114,_Trial_,End,1588327353500,sunadokei.jpg,suberidai.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,114,0,ImageRT_List1,NULL,PennController,115,_Trial_,Start,1588327353511,soujiki.jpg,sofa-.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,114,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327354172,soujiki.jpg,sofa-.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,114,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327357967,soujiki.jpg,sofa-.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,114,0,ImageRT_List1,NULL,PennController,115,_Trial_,End,1588327357972,soujiki.jpg,sofa-.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,130,0,ImageRT_List1,NULL,PennController,131,_Trial_,Start,1588327357979,haburashi.jpg,hachi.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,130,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327358518,haburashi.jpg,hachi.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,130,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327361624,haburashi.jpg,hachi.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,130,0,ImageRT_List1,NULL,PennController,131,_Trial_,End,1588327361631,haburashi.jpg,hachi.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,144,0,ImageRT_List1,NULL,PennController,145,_Trial_,Start,1588327361637,raketto.jpg,randoseru.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,144,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327362534,raketto.jpg,randoseru.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,144,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327365561,raketto.jpg,randoseru.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,144,0,ImageRT_List1,NULL,PennController,145,_Trial_,End,1588327365565,raketto.jpg,randoseru.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,108,0,ImageRT_List1,NULL,PennController,109,_Trial_,Start,1588327365571,si-so-.jpg,shinbun.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,108,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327366295,si-so-.jpg,shinbun.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,108,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327369331,si-so-.jpg,shinbun.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,108,0,ImageRT_List1,NULL,PennController,109,_Trial_,End,1588327369335,si-so-.jpg,shinbun.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,135,0,ImageRT_List1,NULL,PennController,136,_Trial_,Start,1588327369341,hituji.jpg,hikouki.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,135,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327370582,hituji.jpg,hikouki.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,135,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327373274,hituji.jpg,hikouki.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,135,0,ImageRT_List1,NULL,PennController,136,_Trial_,End,1588327373279,hituji.jpg,hikouki.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,118,0,ImageRT_List1,NULL,PennController,119,_Trial_,Start,1588327373286,dentaku.jpg,densya.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,118,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327374013,dentaku.jpg,densya.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,118,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327376924,dentaku.jpg,densya.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,118,0,ImageRT_List1,NULL,PennController,119,_Trial_,End,1588327376929,dentaku.jpg,densya.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,104,0,ImageRT_List1,NULL,PennController,105,_Trial_,Start,1588327376937,kyuuri.jpg,kyuukyuusya.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,104,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327377648,kyuuri.jpg,kyuukyuusya.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,104,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327381190,kyuuri.jpg,kyuukyuusya.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,104,0,ImageRT_List1,NULL,PennController,105,_Trial_,End,1588327381198,kyuuri.jpg,kyuukyuusya.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,125,0,ImageRT_List1,NULL,PennController,126,_Trial_,Start,1588327381207,nezumi.jpg,neko.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,125,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327382170,nezumi.jpg,neko.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,125,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327386036,nezumi.jpg,neko.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,125,0,ImageRT_List1,NULL,PennController,126,_Trial_,End,1588327386041,nezumi.jpg,neko.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,116,0,ImageRT_List1,NULL,PennController,117,_Trial_,Start,1588327386049,tyu-rippu.jpg,tyuusyaki.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,116,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327386928,tyu-rippu.jpg,tyuusyaki.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,116,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327390360,tyu-rippu.jpg,tyuusyaki.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,116,0,ImageRT_List1,NULL,PennController,117,_Trial_,End,1588327390368,tyu-rippu.jpg,tyuusyaki.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,129,0,ImageRT_List1,NULL,PennController,130,_Trial_,Start,1588327390376,hashi.jpg,hata.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,129,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327391223,hashi.jpg,hata.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,129,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327394280,hashi.jpg,hata.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,129,0,ImageRT_List1,NULL,PennController,130,_Trial_,End,1588327394286,hashi.jpg,hata.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,133,0,ImageRT_List1,NULL,PennController,134,_Trial_,Start,1588327394296,pasokon.jpg,pan.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,133,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327394974,pasokon.jpg,pan.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,133,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327397632,pasokon.jpg,pan.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,133,0,ImageRT_List1,NULL,PennController,134,_Trial_,End,1588327397636,pasokon.jpg,pan.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,122,0,ImageRT_List1,NULL,PennController,123,_Trial_,Start,1588327397643,nabe.jpg,naihu.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,122,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327398287,nabe.jpg,naihu.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,122,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327401293,nabe.jpg,naihu.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,122,0,ImageRT_List1,NULL,PennController,123,_Trial_,End,1588327401295,nabe.jpg,naihu.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,146,0,ImageRT_List1,NULL,PennController,147,_Trial_,Start,1588327401297,rokka-.jpg,robotto.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,146,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327401976,rokka-.jpg,robotto.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,146,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327405071,rokka-.jpg,robotto.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,146,0,ImageRT_List1,NULL,PennController,147,_Trial_,End,1588327405076,rokka-.jpg,robotto.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,103,0,ImageRT_List1,NULL,PennController,104,_Trial_,Start,1588327405082,kame.jpg,kamera.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,103,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327406172,kame.jpg,kamera.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,103,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327409206,kame.jpg,kamera.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,103,0,ImageRT_List1,NULL,PennController,104,_Trial_,End,1588327409210,kame.jpg,kamera.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,143,0,ImageRT_List1,NULL,PennController,144,_Trial_,Start,1588327409216,raita-.jpg,rajio.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,143,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327409820,raita-.jpg,rajio.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,143,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327412864,raita-.jpg,rajio.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,143,0,ImageRT_List1,NULL,PennController,144,_Trial_,End,1588327412869,raita-.jpg,rajio.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,117,0,ImageRT_List1,NULL,PennController,118,_Trial_,Start,1588327412876,tukue.jpg,tume.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,117,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327413500,tukue.jpg,tume.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,117,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327417259,tukue.jpg,tume.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,117,0,ImageRT_List1,NULL,PennController,118,_Trial_,End,1588327417264,tukue.jpg,tume.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,137,0,ImageRT_List1,NULL,PennController,138,_Trial_,Start,1588327417270,huraipan.jpg,hudebako.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,137,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327417830,huraipan.jpg,hudebako.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,137,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327421249,huraipan.jpg,hudebako.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,137,0,ImageRT_List1,NULL,PennController,138,_Trial_,End,1588327421253,huraipan.jpg,hudebako.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,102,0,ImageRT_List1,NULL,PennController,103,_Trial_,Start,1588327421261,epuron.jpg,eakon.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,102,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327421908,epuron.jpg,eakon.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,102,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327425240,epuron.jpg,eakon.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,102,0,ImageRT_List1,NULL,PennController,103,_Trial_,End,1588327425244,epuron.jpg,eakon.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,132,0,ImageRT_List1,NULL,PennController,133,_Trial_,Start,1588327425252,happa.jpg,hashigo.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,132,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327425818,happa.jpg,hashigo.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,132,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327428951,happa.jpg,hashigo.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,132,0,ImageRT_List1,NULL,PennController,133,_Trial_,End,1588327428955,happa.jpg,hashigo.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,140,0,ImageRT_List1,NULL,PennController,141,_Trial_,Start,1588327428960,boushi.jpg,bo-ru.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,140,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327429583,boushi.jpg,bo-ru.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,140,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327432988,boushi.jpg,bo-ru.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,140,0,ImageRT_List1,NULL,PennController,141,_Trial_,End,1588327432992,boushi.jpg,bo-ru.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,101,0,ImageRT_List1,NULL,PennController,102,_Trial_,Start,1588327432998,udedokei.jpg,usagi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,101,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327433540,udedokei.jpg,usagi.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,101,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327436811,udedokei.jpg,usagi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,101,0,ImageRT_List1,NULL,PennController,102,_Trial_,End,1588327436814,udedokei.jpg,usagi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,127,0,ImageRT_List1,NULL,PennController,128,_Trial_,Start,1588327436820,baketu.jpg,banana.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,127,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327437330,baketu.jpg,banana.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,127,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327440112,baketu.jpg,banana.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,127,0,ImageRT_List1,NULL,PennController,128,_Trial_,End,1588327440117,baketu.jpg,banana.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,124,0,ImageRT_List1,NULL,PennController,125,_Trial_,Start,1588327440123,niwatori.jpg,ninjin.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,124,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327440914,niwatori.jpg,ninjin.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,124,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327444040,niwatori.jpg,ninjin.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,124,0,ImageRT_List1,NULL,PennController,125,_Trial_,End,1588327444041,niwatori.jpg,ninjin.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,139,0,ImageRT_List1,NULL,PennController,140,_Trial_,Start,1588327444042,houki.jpg,houtyou.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,139,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327444493,houki.jpg,houtyou.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,139,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327447424,houki.jpg,houtyou.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,139,0,ImageRT_List1,NULL,PennController,140,_Trial_,End,1588327447426,houki.jpg,houtyou.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,147,0,ImageRT_List1,NULL,PennController,148,_Trial_,Start,1588327447428,wani.jpg,wanpi-su.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,147,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327447885,wani.jpg,wanpi-su.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,147,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327450614,wani.jpg,wanpi-su.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,147,0,ImageRT_List1,NULL,PennController,148,_Trial_,End,1588327450619,wani.jpg,wanpi-su.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,105,0,ImageRT_List1,NULL,PennController,106,_Trial_,Start,1588327450626,kutushita.jpg,kureyon.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,105,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327451203,kutushita.jpg,kureyon.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,105,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327454627,kutushita.jpg,kureyon.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,105,0,ImageRT_List1,NULL,PennController,106,_Trial_,End,1588327454633,kutushita.jpg,kureyon.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,126,0,ImageRT_List1,NULL,PennController,127,_Trial_,Start,1588327454639,nokogiri.jpg,no-to.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,126,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327455103,nokogiri.jpg,no-to.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,126,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327457904,nokogiri.jpg,no-to.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,126,0,ImageRT_List1,NULL,PennController,127,_Trial_,End,1588327457909,nokogiri.jpg,no-to.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,142,0,ImageRT_List1,NULL,PennController,143,_PreloadFailed_,tatejima_yunomi.wav,1588327517916,yubiwa.jpg,yunoi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,142,0,ImageRT_List1,NULL,PennController,143,_Trial_,Start,1588327517916,yubiwa.jpg,yunoi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,142,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327563614,yubiwa.jpg,yunoi.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,142,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327568802,yubiwa.jpg,yunoi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,142,0,ImageRT_List1,NULL,PennController,143,_Trial_,End,1588327568806,yubiwa.jpg,yunoi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,128,0,ImageRT_List1,NULL,PennController,129,_Trial_,Start,1588327568812,hako.jpg,hasami.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,128,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327569949,hako.jpg,hasami.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,128,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327575691,hako.jpg,hasami.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,128,0,ImageRT_List1,NULL,PennController,129,_Trial_,End,1588327575695,hako.jpg,hasami.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,112,0,ImageRT_List1,NULL,PennController,113,_Trial_,Start,1588327575701,sushi.jpg,sutoro-.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,112,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327576491,sushi.jpg,sutoro-.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,112,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327579860,sushi.jpg,sutoro-.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,112,0,ImageRT_List1,NULL,PennController,113,_Trial_,End,1588327579865,sushi.jpg,sutoro-.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,100,0,ImageRT_List1,NULL,PennController,101,_Trial_,Start,1588327579872,ichigo.jpg,ika.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,100,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327580867,ichigo.jpg,ika.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,100,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327584280,ichigo.jpg,ika.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,100,0,ImageRT_List1,NULL,PennController,101,_Trial_,End,1588327584285,ichigo.jpg,ika.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,136,0,ImageRT_List1,NULL,PennController,137,_Trial_,Start,1588327584292,huutou.jpg,hune.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,136,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327585629,huutou.jpg,hune.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,136,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327588796,huutou.jpg,hune.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,136,0,ImageRT_List1,NULL,PennController,137,_Trial_,End,1588327588800,huutou.jpg,hune.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,109,0,ImageRT_List1,NULL,PennController,110,_Trial_,Start,1588327588808,jisyaku.jpg,jitensya.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,109,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327590869,jisyaku.jpg,jitensya.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,109,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327593515,jisyaku.jpg,jitensya.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,109,0,ImageRT_List1,NULL,PennController,110,_Trial_,End,1588327593521,jisyaku.jpg,jitensya.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,134,0,ImageRT_List1,NULL,PennController,135,_Trial_,Start,1588327593528,hanko.jpg,hanga-.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,134,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327594224,hanko.jpg,hanga-.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,134,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327597047,hanko.jpg,hanga-.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,134,0,ImageRT_List1,NULL,PennController,135,_Trial_,End,1588327597049,hanko.jpg,hanga-.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,121,0,ImageRT_List1,NULL,PennController,122,_Trial_,Start,1588327597053,toranpetto.jpg,tori.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,121,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327597418,toranpetto.jpg,tori.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,121,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327600219,toranpetto.jpg,tori.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,121,0,ImageRT_List1,NULL,PennController,122,_Trial_,End,1588327600224,toranpetto.jpg,tori.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,141,0,ImageRT_List1,NULL,PennController,142,_Trial_,Start,1588327600228,manaita.jpg,makura.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,141,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327600907,manaita.jpg,makura.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,141,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327603744,manaita.jpg,makura.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,141,0,ImageRT_List1,NULL,PennController,142,_Trial_,End,1588327603748,manaita.jpg,makura.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,107,0,ImageRT_List1,NULL,PennController,108,_Trial_,Start,1588327603754,kokeshi.jpg,kotatu.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,107,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327604214,kokeshi.jpg,kotatu.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,107,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327607320,kokeshi.jpg,kotatu.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,107,0,ImageRT_List1,NULL,PennController,108,_Trial_,End,1588327607324,kokeshi.jpg,kotatu.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,138,0,ImageRT_List1,NULL,PennController,139,_Trial_,Start,1588327607331,herumetto.jpg,hebi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,138,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327607891,herumetto.jpg,hebi.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,138,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327611041,herumetto.jpg,hebi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,138,0,ImageRT_List1,NULL,PennController,139,_Trial_,End,1588327611046,herumetto.jpg,hebi.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,119,0,ImageRT_List1,NULL,PennController,120,_Trial_,Start,1588327611053,doa.jpg,doraiya-.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,119,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327611445,doa.jpg,doraiya-.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,119,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327614105,doa.jpg,doraiya-.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,119,0,ImageRT_List1,NULL,PennController,120,_Trial_,End,1588327614109,doa.jpg,doraiya-.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,115,0,ImageRT_List1,NULL,PennController,116,_Trial_,Start,1588327614114,taiya.jpg,taihou.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,115,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327614928,taiya.jpg,taihou.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,115,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327617747,taiya.jpg,taihou.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,115,0,ImageRT_List1,NULL,PennController,116,_Trial_,End,1588327617753,taiya.jpg,taihou.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,110,0,ImageRT_List1,NULL,PennController,111,_Trial_,Start,1588327617758,suka-to.jpg,su-tu.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,110,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327618544,suka-to.jpg,su-tu.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,110,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327621775,suka-to.jpg,su-tu.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,110,0,ImageRT_List1,NULL,PennController,111,_Trial_,End,1588327621780,suka-to.jpg,su-tu.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,131,0,ImageRT_List1,NULL,PennController,132,_Trial_,Start,1588327621785,batto.jpg,batta.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,131,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327622192,batto.jpg,batta.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,131,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327625094,batto.jpg,batta.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,131,0,ImageRT_List1,NULL,PennController,132,_Trial_,End,1588327625098,batto.jpg,batta.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,106,0,ImageRT_List1,NULL,PennController,107,_Trial_,Start,1588327625103,koppu.jpg,koin.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,106,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327625521,koppu.jpg,koin.jpg,L,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,106,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,left,1588327628461,koppu.jpg,koin.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,106,0,ImageRT_List1,NULL,PennController,107,_Trial_,End,1588327628465,koppu.jpg,koin.jpg,L,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,120,0,ImageRT_List1,NULL,PennController,121,_Trial_,Start,1588327628470,tokei.jpg,torakku.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,120,0,ImageRT_List1,NULL,Key, ,PressedKey, ,1588327628841,tokei.jpg,torakku.jpg,H,Wait success
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,120,0,ImageRT_List1,NULL,Selector,unnamed-Selector,Selection,right,1588327631596,tokei.jpg,torakku.jpg,H,NULL
+1588327632,45b0ffb890761434b5b16e200e10d7fd,PennController,120,0,ImageRT_List1,NULL,PennController,121,_Trial_,End,1588327631600,tokei.jpg,torakku.jpg,H,NULL
