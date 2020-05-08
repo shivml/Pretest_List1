@@ -1,7 +1,7 @@
 PennController.ResetPrefix(null);
 PennController.AddHost("https://amor.cms.hu-berlin.de/~itoaine/ibex/")
 PennController.DebugOff()
-PennController.Sequence("IntroConsent", "ParticipantInfo", "Info1", randomize("ProductionTask"), "Info2", randomize("ImageRT_List1"), "send", "final")
+PennController.Sequence("IntroConsent", "ParticipantInfo", "Info1", randomize("ProductionTask"), "Info2", randomize("ImageRT_List2"), "send", "final")
 //screen 1
 
 PennController("IntroConsent",
